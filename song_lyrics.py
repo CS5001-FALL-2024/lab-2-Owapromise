@@ -24,7 +24,7 @@ def main():
     lyrics9="my"
     lyrics10="grandparents"
 
-    print(lyrics1,lyrics2,lyrics3)
+    print(lyrics1,lyrics2,lyrics3,lyrics4,lyrics5,lyrics6)
 
 
 if __name__ == '__main__':
