@@ -13,7 +13,8 @@ lyric on one single line using print.
 
 def main():
     # YOUR CODE HERE
-    lyrics1="remember" 
+    #my lyrics is from "Moral of the story" by Ashe
+    lyrics1="Remember" 
     lyrics2="how"
     lyrics3="we"
     lyrics4="painted"
