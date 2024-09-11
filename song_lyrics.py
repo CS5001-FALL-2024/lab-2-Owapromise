@@ -2,7 +2,7 @@
     CS 5001
     Lab 1
     Exercise 2
-    Name:
+    Name:Promise Owa
 '''
 
 '''
@@ -13,6 +13,16 @@ lyric on one single line using print.
 
 def main():
     # YOUR CODE HERE
+    lyrics1="remember" 
+    lyrics2="how"
+    lyrics3="we"
+    lyrics4="painted"
+    lyrics5="our"
+    lyrics6="house"
+    lyrics7="just"
+    lyrics8="like"
+    lyrics9="my"
+    lyrics10="grandparents"
 
 
 if __name__ == '__main__':
