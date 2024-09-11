@@ -25,7 +25,7 @@ def main():
     current_time= int(input("what time is it? "))
     alarm_hour = int(input("how long until alarm goes off? "))
     alarm_goes_off = current_time+alarm_hour
-    print("alarm goes off at ",alarm_goes_off)
+    print("Your alarm will go off at ",alarm_goes_off)
 
 if __name__ == '__main__':
     main()
