@@ -24,6 +24,8 @@ def main():
     # YOUR CODE HERE
     print('+-----+')
     print('| .-. |')
+    print('| | | |')
+
 
 
 
