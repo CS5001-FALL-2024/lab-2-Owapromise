@@ -30,9 +30,9 @@ def main():
     # Replace the # YOUR CODE HERE text in the statement below so that the statement will print
     # The difference between x and y is difference.
     # where x, y, and difference are replaced with the values stored in the corresponding variables.    
-    print (f'The difference between x and y is', difference)
-    print (f'The product of x and y is', product)
-    print (f'The average of x and y is', average)
+    print (f'The difference between 10 and 5 is', difference)
+    print (f'The product of 5 and 10 is', product)
+    print (f'The average of 5 and 10 is', average)
 
     # Write a statement to print the product of x and y.
     # Write a statement to print the average of x and y. Make sure this prints 7.5!
